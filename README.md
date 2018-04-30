@@ -1,13 +1,14 @@
 # Spatial-Data-Analytics-Platform
 
-##Fellowship Agenda : Develop a Geo-spatial Dashboard For All Applications
+#Fellowship Agenda 
+Develop a Geo-spatial Dashboard For All Applications
 Develop a location analytics platform for geospatial data visualization,analyze for decision making.
 
 
 
 
 
-##Objectives: 
+#Objectives: 
 Customization and create your dashboards
 Consume data from shapefiles,geojson,json,csv.
 Display of different geospatial data sets such as Point, Line, Polygon.
@@ -21,7 +22,7 @@ Real time data visualization with map and charts and data filters.
 
 
 
-##Technology:
+#Technology:
 Python for back-end
 Leaflet JavaScript For mapping
 Postgresql for Data Base handle 
