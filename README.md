@@ -1,6 +1,6 @@
 # Spatial-Data-Analytics-Platform
 
-**Fellowship Agenda** 
+**Fellowship Agenda:** 
 Develop a Geo-spatial Dashboard For All Applications
 Develop a location analytics platform for geospatial data visualization,analyze for decision making.
 
@@ -9,24 +9,24 @@ Develop a location analytics platform for geospatial data visualization,analyze 
 
 
 **Objectives:** 
-Customization and create your dashboards
-Consume data from shapefiles,geojson,json,csv.
-Display of different geospatial data sets such as Point, Line, Polygon.
-Integration with GIS data services in OGC format like WMS,WMTS,WFS,WPS.
-Base maps like osm,bhuvan etc.
-connect to database like postgresql,mongodb etc.
-integrate to GIS Servers like,Geo-server,Mapserver etc.  
-Reporting by charts/pie-charts,pdf,csv etc.
-Real time data visualization with map and charts and data filters. 
+* Customization and create your dashboards
+* Consume data from shapefiles,geojson,json,csv.
+* Display of different geospatial data sets such as Point, Line, Polygon.
+* Integration with GIS data services in OGC format like WMS,WMTS,WFS,WPS.
+* Base maps like osm,bhuvan etc.
+* connect to database like postgresql,mongodb etc.
+* integrate to GIS Servers like,Geo-server,Mapserver etc.  
+* Reporting by charts/pie-charts,pdf,csv etc.
+* Real time data visualization with map and charts and data filters. 
 
 
 
 
 **Technology:**
-Python for back-end
-Leaflet JavaScript For mapping
-Postgresql for Data Base handle 
-Geo-Server publishing spatial data
+* Python for back-end
+* Leaflet JavaScript For mapping
+* Postgresql for Data Base handle 
+* Geo-Server publishing spatial data
 **Proposal Example:**
 In the present scenario, rural areas people are face different health issues than people who stay in urban areas. Reaching or getting into the hospitals when people are live in rural areas. Remote area people might not able to get nearby hospitals when emergency happen and also they don’t know travel distance, routes to get health care.
 
