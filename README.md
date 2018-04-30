@@ -27,6 +27,8 @@ Develop a location analytics platform for geospatial data visualization,analyze 
 * Leaflet JavaScript For mapping
 * Postgresql for Data Base handle 
 * Geo-Server publishing spatial data
+
+
 **Proposal Example:**
 In the present scenario, rural areas people are face different health issues than people who stay in urban areas. Reaching or getting into the hospitals when people are live in rural areas. Remote area people might not able to get nearby hospitals when emergency happen and also they don’t know travel distance, routes to get health care.
 
